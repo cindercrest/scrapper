@@ -1,0 +1,7 @@
+.env/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+scraped_output.json
+scraped_output.json
